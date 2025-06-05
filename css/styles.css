@@ -1,0 +1,46 @@
+@font-face {
+    font-family: exile;
+    src: url(custom_fonts/Exile-Regular.ttf);
+}
+
+body{
+    background-color: rgb(74, 53, 2);
+}
+
+h1{
+    font-family: exile, sans-serif, serif;
+    font-size: 250%;
+    color:rgb(239, 165, 69);
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color:rgb(239, 165, 69);
+}
+
+ul{
+    color:rgb(51, 29, 1);
+    background-color: rgb(245, 217, 183);
+}
+
+li {
+    color:rgb(41, 23, 1);
+    height:150%;
+    width:450px;
+    display:inline-block;
+    font-size:150% 
+}
+
+main, footer{
+    color: burlywood;
+    background-color: rgb(58, 33, 2);
+}
+
+p{
+    font-size:125%;
+}
+
+img{
+    background-color:antiquewhite;
+}
