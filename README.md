@@ -1,2 +1,2 @@
 # CSS3HomeworkOne
-Editing CSS file to add styles to HTML site.
+Github didn't let me upload all the images as the file sizes were too big so pleas excuse that.
